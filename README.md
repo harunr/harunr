@@ -105,12 +105,14 @@ I am currently focused on:
 
 ## Recent Work
 
-* **CellsDeal.com** — https://cellsdeal.com
-* **Nokshikaj.com** — https://nokshikaj.com
-* **Omali Essence** — https://omaliessence.com
-* **AbestFive.com** — https://abestfive.com
-* **AbestEver.com** — https://abestever.com
-* **BuyBestForYou.com** — https://buybestforyou.com
+* **CellsDeal.com** — B2B wholesale marketplace for mobile device trading — https://cellsdeal.com
+* **Nokshikaj.com** — Handmade Bangladeshi heritage crafts eCommerce platform — https://nokshikaj.com
+* **Omali Essence** — Shopify-based fragrance store with international shipping — https://omaliessence.com
+* **AbestFive.com** — Amazon affiliate review site for home and kitchen products — https://abestfive.com
+* **AbestEver.com** — Amazon affiliate review site for pet food and accessories — https://abestever.com
+* **BuyBestForYou.com** — Amazon affiliate product review and comparison site — https://buybestforyou.com
+* **Snpick.com** — News and analysis platform covering sports, Middle East affairs, and global trends — https://snpick.com
+* **Elevate Capital Solutions** — Commercial lending brokerage and advisory firm specializing in CRE and C&I lending — https://elevatecapitalsolutions.com
 
 ---
 
