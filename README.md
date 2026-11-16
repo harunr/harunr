@@ -2,7 +2,7 @@
 
 ### Senior Full-Stack Engineer | Headless WordPress & WooCommerce | Next.js | Shopify | Laravel
 
-Founder of **Webtricker LLC** and Co-Founder of **MarkupMarvel**, with 17+ years of experience building production-grade websites, eCommerce platforms, custom web applications, and high-performance digital experiences.
+Founder of **Webtricker LLC** and **MarkupMarvel**, with 17+ years of experience building production-grade websites, eCommerce platforms, custom web applications, and high-performance digital experiences.
 
 I work with businesses, startups, and agency partners across the **US, UK, and Europe**, including white-label development engagements and long-term technical partnerships.
 
@@ -80,11 +80,11 @@ My development work increasingly combines engineering with search visibility and
 * 17+ years in web design and development
 * Senior Full-Stack Engineer
 * Founder — **Webtricker LLC**
-* Co-Founder — **MarkupMarvel**
+* Founder & CEO — **MarkupMarvel**
 * Founder & Chief Trainer — **TechSprout School**
 * Former Top Rated Plus freelancer on Upwork
-* 220+ completed Upwork jobs
-* 4,000+ tracked hours
+* 223 completed Upwork jobs
+* 4,500+ tracked hours
 * Long-term agency and white-label development experience
 
 ---
