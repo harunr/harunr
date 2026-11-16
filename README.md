@@ -82,7 +82,7 @@ My development work increasingly combines engineering with search visibility and
 * Founder — **Webtricker LLC**
 * Co-Founder — **MarkupMarvel**
 * Founder & Chief Trainer — **TechSprout School**
-* Top Rated Plus freelancer on Upwork
+* Former Top Rated Plus freelancer on Upwork
 * 220+ completed Upwork jobs
 * 4,000+ tracked hours
 * Long-term agency and white-label development experience
