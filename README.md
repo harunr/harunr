@@ -166,7 +166,7 @@ Modern development solutions covering Next.js, React, Shopify, WordPress, Larave
 ## Let's Connect
 
 [![Website](https://img.shields.io/badge/Webtricker-Website-0A66C2?style=for-the-badge)](https://webtricker.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md._Mosharaf_Hossain-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mosharafh/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md._Mosharaf_Hossain-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mosharafh19/)
 
 **Email:** [hello@webtricker.com](mailto:hello@webtricker.com)
 
